@@ -3,7 +3,7 @@ Source codes of "Twin reciprocal completion for incomplete multi-view clustering
 
 <img src="./TRC_Framework.png" width="75%">
 
-To prepare the incomplete multi-view data, please to "High-order Correlation Preserved Incomplete Multi-view Subspace Clustering (IEEE TIP 2022)", which is a good and inspirational work. The corresponding source codes can be also found in "https://github.com/guanyuezhen/HCP-IMSC"
+To prepare the incomplete multi-view data, please refer to "High-order Correlation Preserved Incomplete Multi-view Subspace Clustering (IEEE TIP 2022)", which is a good and inspirational work. The corresponding source codes can be also found in "https://github.com/guanyuezhen/HCP-IMSC"
 
 If you find the codes useful in your research, please cite our work as follows, thanks.
 
@@ -15,4 +15,4 @@ If you find the codes useful in your research, please cite our work as follows, 
       &nbsp;&nbsp;&nbsp;&nbsp;doi=\{10.1109/TCSVT.2024.3437756\}<br/>
 \}<br/>
 
-Email: zhengqinghai@fzu.edu.cn
+Email: zhengqinghai@fzu.edu.cn; qhxjtu@163.com
