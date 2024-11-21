@@ -1,4 +1,4 @@
-# CUMRL
+# TRC-IMC
 Source codes of "Twin reciprocal completion for incomplete multi-view clustering" pubilished in IEEE TCSVT 2024
 
 <img src="./TRC_Framework.png" width="75%">
