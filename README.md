@@ -1,11 +1,11 @@
 # TRC-IMC
-Source codes of "Twin reciprocal completion for incomplete multi-view clustering" pubilished in IEEE TCSVT 2024
+Source codes of "Twin reciprocal completion for incomplete multi-view clustering" published in IEEE TCSVT 2024
 
 <img src="./TRC_Framework.png" width="75%">
 
-To prepare the incomplete multi-view data, please refer to "High-order Correlation Preserved Incomplete Multi-view Subspace Clustering (IEEE TIP 2022)", which is a good and inspirational work. The corresponding source codes can be also found in "https://github.com/guanyuezhen/HCP-IMSC"
+To prepare the incomplete multi-view data, please refer to "High-order Correlation Preserved Incomplete Multi-view Subspace Clustering (IEEE TIP 2022)", which is a good and inspirational work. The corresponding source codes can also be found in "https://github.com/guanyuezhen/HCP-IMSC"
 
-If you find the codes useful in your research, please cite our work as follows, thanks.
+If you find the codes useful in your research, please cite our work as follows. Thanks.
 
 @article\{TRCIMC,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Twin reciprocal completion for incomplete multi-view clustering\},<br/>
